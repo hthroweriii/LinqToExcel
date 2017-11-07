@@ -8,3 +8,4 @@ LinqToExcel.xml
 *.zip
 *.nupkg
 src/packages/
+.vs/
