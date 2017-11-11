@@ -9,3 +9,4 @@ LinqToExcel.xml
 *.nupkg
 src/packages/
 .vs/
+*.csproj.user
