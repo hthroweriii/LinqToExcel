@@ -10,3 +10,4 @@ LinqToExcel.xml
 src/packages/
 .vs/
 *.csproj.user
+*.DotSettings.user
